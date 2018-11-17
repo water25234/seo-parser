@@ -1,0 +1,28 @@
+{
+  "name": "seo-justin",
+  "version": "1.0.1",
+  "description": "seo parser",
+  "main": "index.js",
+  "scripts": {
+    "production": "node test.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/water25234/seo-parser.git"
+  },
+  "keywords": [
+    "seo"
+  ],
+  "author": "js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/water25234/seo-parser/issues"
+  },
+  "homepage": "https://github.com/water25234/seo-parser#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "seo-justin": "^1.0.2"
+  }
+}
